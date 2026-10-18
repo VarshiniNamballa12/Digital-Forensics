@@ -1,0 +1,21 @@
+================================================================================
+DIGITAL FORENSICS INCIDENT RESPONSE CASE BRIEF
+================================================================================
+Case ID: CASE-2026-CYBER-09
+Target: Core Financial Gateway
+Date of Triage: October 18, 2026
+Lead Investigator: Det. Alex Vance (Badge #IR-842)
+
+Summary of Findings:
+At 01:10 UTC, unauthorized lateral movement was flagged originating from external IP
+198.51.100.42 targeting internal directory servers. Volatile memory dumps and packet
+traces were gathered on-scene with write-blockers attached.
+
+Integrity Note:
+All extracted memory dumps, PCAP traces, and audit logs are to be cryptographically
+hashed (SHA-256) and anchored directly to the Ethereum blockchain ledger to establish
+an unassailable chain of custody for courtroom admissibility.
+
+Chain of Custody Custodian:
+Ethereum Smart Contract: ForensicEvidenceTracker
+================================================================================
